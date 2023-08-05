@@ -5,3 +5,9 @@ RUN apt-get update
 RUN pip install --upgrade pip
 #. jupyterlab => ブラウザ上で動作する対話型実行環境
 RUN python -m pip install jupyterlab
+
+
+# RUN pip install pandas
+# RUN pip install requests
+# RUN pip install selenium
+# RUN pip install beautifulsoup4
