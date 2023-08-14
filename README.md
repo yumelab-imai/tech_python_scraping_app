@@ -9,6 +9,10 @@ To set up a generic environment - using the Mac book Air's M2 chip.
 
 <!--  root  -->
 ```
+<!--  クローン  -->
+git clone https://github.com/yumelab-imai/python_development_environment_with_docker.git
+<!--  移動  -->
+cd python_development_environment_with_docker/
 <!-- イメージとコンテナの作成、コンテナの起動を実行 -->
 docker compose up -d --build
 <!-- コンテナが正常に起動したか確認 -->
