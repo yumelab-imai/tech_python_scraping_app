@@ -7,7 +7,5 @@ RUN pip install --upgrade pip
 RUN python -m pip install jupyterlab
 
 
-# RUN pip install pandas
-# RUN pip install requests
-# RUN pip install selenium
-# RUN pip install beautifulsoup4
+RUN pip install beautifulsoup4
+RUN pip install requests

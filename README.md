@@ -40,7 +40,5 @@ https://www.kagoya.jp/howto/cloud/container/dockerpython/
 | -------- | -------- |
 | pandas | CSV出力 |
 | requests | 楽天市場の情報取得 |
-| selenium | amazonの情報取得 |
 | time | 処理の遅延（sleep） |
-| selenium Select | ドロップダウンリストの操作 |
-| BeautifulSoup | HTML解析（"味噌汁生成"） |
+| BeautifulSoup | HTML解析 |
